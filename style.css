@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(46, 120, 173);
+    text-align:justify;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 67px;
+  }
+  
+  body {
+    background-image: url(https://c.wallhere.com/photos/d0/04/selective_coloring_black_background_dark_background_simple_background_anime_girls-2186275.jpg!d);
+  }
+  
+  pre {color: azure;
+  font-size: 25px;}
+  p {color:bisque;
+  font-size: large;}
+  div {color: aqua;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;}
